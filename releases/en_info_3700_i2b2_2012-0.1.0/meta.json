@@ -4,6 +4,7 @@
   "license":"MIT",
   "author":"Alec Chapman",
   "email":"abchapman93@gmail.com",
+  "url": "https://github.com/abchapman93/info_3700_spring_2020",
   "description":"Clinical NLP model trained on a subset of i2b2 2012 Task 1 data. Extracts TEST, PROBLEM, and TREATMENT entities. POS tagger and dependency parser are taken from spaCy's en_core_web_sm model.",
   "sources":[
     {
